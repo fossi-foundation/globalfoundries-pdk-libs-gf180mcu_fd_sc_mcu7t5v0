@@ -16,6 +16,7 @@
 M_i_2 VSS I Z_neg VPW nfet_05v0 W=3.6e-07 L=6e-07
 M_i_0 Z Z_neg VSS VPW nfet_05v0 W=4.95e-07 L=6e-07
 M_i_3 VDD I Z_neg VNW pfet_05v0 W=5.25e-07 L=5e-07
-M_i_3_0 VDD I Z_neg VNW pfet_05v0 W=5.25e-07 L=5e-07
+* There is no such duplicate device in the layout (modified by Tim E. 11/3/2025)
+* M_i_3_0 VDD I Z_neg VNW pfet_05v0 W=5.25e-07 L=5e-07
 M_i_1 Z Z_neg VDD VNW pfet_05v0 W=1.22e-06 L=5e-07
 .ENDS
